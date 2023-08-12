@@ -1,0 +1,5 @@
+flash p10 闪存框图
+flash p14 读取flash状态
+flash p17 厂商ID 指令
+flash p11 mode 0/3 support
+hal库开发资料 p423 mode介绍
